@@ -13,23 +13,29 @@ sites:
     url: https://nexus.sgtu.org/
   - name: Gravatar proxy
     url: https://gravatar.shawngao.org/
+  - name: GitLab
+    url: https://git.sgtu.org/
+  - name: Fast Reverse Proxy
+    url: $FRP
+  - name: SonarQube
+    url: $SONAR_HOST_URL
   - name: DE-BGP-6C24G-1000M
-    url: 5.180.253.208
+    url: $DE_0
     port: 22
     check: "tcp-ping"
     ipv6: false
   - name: US-BGP-2C6G-50M
-    url: 103.150.214.129
+    url: $US_0
     port: 22
     check: "tcp-ping"
     ipv6: false
   - name: CN-BGP-4C4G-10M
-    url: 103.36.220.245
+    url: $CN_0
     port: 22
     check: "tcp-ping"
     ipv6: false
   - name: CN-CT-2C4G-500M
-    url: 110.42.109.248
+    url: $CN_1
     port: 22
     check: "tcp-ping"
     ipv6: false
