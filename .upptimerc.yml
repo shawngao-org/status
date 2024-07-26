@@ -3,17 +3,36 @@ owner: shawngao-org # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: File share
+    url: https://file.sgtu.org/
+  - name: Dev tools
+    url: https://tool.sgtu.org/
+  - name: Minecraft Skin
+    url: https://skin.sgtu.org/
+  - name: Nexus
+    url: https://nexus.sgtu.org/
+  - name: Gravatar proxy
+    url: https://gravatar.shawngao.org/
+  - name: DE-BGP-6C24G-1000M
+    url: 5.180.253.208
+    port: 22
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
+  - name: US-BGP-2C6G-50M
+    url: 103.150.214.129
+    port: 22
+    check: "tcp-ping"
+    ipv6: false
+  - name: CN-BGP-4C4G-10M
+    url: 103.36.220.245
+    port: 22
+    check: "tcp-ping"
+    ipv6: false
+  - name: CN-CT-2C4G-500M
+    url: 110.42.109.248
+    port: 22
+    check: "tcp-ping"
+    ipv6: false
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
 status-website:
@@ -23,8 +42,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.gitmirror.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
