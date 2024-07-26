@@ -5,12 +5,14 @@ repo: status # The name of this repository
 sites:
   - name: File share
     url: https://file.sgtu.org/
+    icon: https://alist.nn.ci/logo.svg
   - name: Dev tools
     url: https://tool.sgtu.org/
   - name: Minecraft Skin
     url: https://skin.sgtu.org/
   - name: Nexus
     url: https://nexus.sgtu.org/
+    icon: https://nexus.sgtu.org/static/rapture/resources/icons/x32/sonatype.png
   - name: Gravatar proxy
     url: https://gravatar.shawngao.org/
   - name: GitLab
@@ -19,26 +21,31 @@ sites:
     url: $FRP
   - name: SonarQube
     url: $SONAR_HOST_URL
+    icon: https://sonar.shawngao.org/favicon.ico
   - name: DE-BGP-6C24G-1000M
     url: $DE_0
     port: 22
     check: "tcp-ping"
     ipv6: false
+    icon: https://www.zhaoguoqi.com/upload/202303/717/Medium_png_20230309120014_50800_1_300x200.png
   - name: US-BGP-2C6G-50M
     url: $US_0
     port: 22
     check: "tcp-ping"
     ipv6: false
+    icon: https://www.zhaoguoqi.com/upload/202303/699/Medium_png_20230308050014_79335_1_300x200.png
   - name: CN-BGP-4C4G-10M
     url: $CN_0
     port: 22
     check: "tcp-ping"
     ipv6: false
+    icon: https://www.zhaoguoqi.com/upload/202302/429/Medium_png_20230224080014_71231_1_300x200.png
   - name: CN-CT-2C4G-500M
     url: $CN_1
     port: 22
     check: "tcp-ping"
     ipv6: false
+    icon: https://www.zhaoguoqi.com/upload/202302/429/Medium_png_20230224080014_71231_1_300x200.png
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
 status-website:
