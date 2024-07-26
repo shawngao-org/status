@@ -48,7 +48,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.gitmirror.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
-  introTitle: ""
+  introTitle: " "
   introMessage: ""
   navbar:
     - title: Status
