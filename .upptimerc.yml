@@ -9,7 +9,7 @@ sites:
   - name: Dev tools
     url: https://tool.sgtu.org/
   - name: Minecraft Skin
-    url: https://skin.sgtu.org/
+    url: https://skin.sgtu.ltd/
   - name: Nexus
     url: https://nexus.sgtu.org/
     icon: https://camo.githubusercontent.com/38c49ca1457f39d8cac336bb5be09d59db882feb8dd7ed6f185af598984941f8/68747470733a2f2f6e657875732e736774752e6f72672f7374617469632f726170747572652f7265736f75726365732f69636f6e732f7833322f736f6e61747970652e706e67
