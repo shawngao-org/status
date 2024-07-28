@@ -4,19 +4,19 @@
     "url": "https://file.sgtu.org/",
     "icon": "https://camo.githubusercontent.com/d75049b8985af3c0488db284c20eed129eaa526ef4d35657437c55fccfd53005/68747470733a2f2f616c6973742e6e6e2e63692f6c6f676f2e737667",
     "slug": "file-share",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1067,
-    "timeDay": 1041,
-    "timeWeek": 1067,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 1140,
+    "timeDay": 1315,
+    "timeWeek": 1140,
+    "timeMonth": 1140,
+    "timeYear": 1140,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 18
     }
   },
   {
