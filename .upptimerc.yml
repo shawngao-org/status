@@ -3,6 +3,8 @@ owner: shawngao-org # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
+  - name: Blog
+    url: https://www.sgtu.org/
   - name: File share
     url: https://file.sgtu.org/
     icon: https://camo.githubusercontent.com/d75049b8985af3c0488db284c20eed129eaa526ef4d35657437c55fccfd53005/68747470733a2f2f616c6973742e6e6e2e63692f6c6f676f2e737667
