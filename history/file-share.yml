@@ -1,7 +1,7 @@
 url: https://file.sgtu.org/
-status: up
-code: 200
-responseTime: 1032
-lastUpdated: 2024-08-02T05:32:01.126Z
+status: down
+code: 502
+responseTime: 19181
+lastUpdated: 2024-08-02T07:59:09.938Z
 startTime: 2024-07-26T13:05:37.645Z
 generator: Upptime <https://github.com/upptime/upptime>
