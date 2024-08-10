@@ -118,18 +118,20 @@
     "url": "https://git.sgtu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sgtu.org.ico",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1181,
-    "timeDay": 1023,
-    "timeWeek": 1168,
-    "timeMonth": 1181,
-    "timeYear": 1181,
-    "dailyMinutesDown": {}
+    "time": 1314,
+    "timeDay": 2638,
+    "timeWeek": 1554,
+    "timeMonth": 1314,
+    "timeYear": 1314,
+    "dailyMinutesDown": {
+      "2024-08-10": 0
+    }
   },
   {
     "name": "Fast Reverse Proxy",
