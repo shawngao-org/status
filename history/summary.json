@@ -4,19 +4,19 @@
     "url": "https://www.sgtu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sgtu.org.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1401,
-    "timeDay": 4271,
-    "timeWeek": 1618,
-    "timeMonth": 1401,
-    "timeYear": 1401,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1395,
+    "timeDay": 2783,
+    "timeWeek": 1577,
+    "timeMonth": 1395,
+    "timeYear": 1395,
     "dailyMinutesDown": {
-      "2024-08-15": 0
+      "2024-08-15": 14
     }
   },
   {
