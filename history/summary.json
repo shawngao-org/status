@@ -13,7 +13,7 @@
     "time": 1424,
     "timeDay": 852,
     "timeWeek": 1502,
-    "timeMonth": 1424,
+    "timeMonth": 1444,
     "timeYear": 1424,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 4424,
     "timeDay": 1157,
     "timeWeek": 1165,
-    "timeMonth": 5157,
+    "timeMonth": 5056,
     "timeYear": 4424,
     "dailyMinutesDown": {
       "2024-08-01": 20,
@@ -53,7 +53,7 @@
     "time": 790,
     "timeDay": 615,
     "timeWeek": 692,
-    "timeMonth": 726,
+    "timeMonth": 710,
     "timeYear": 790,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 943,
     "timeDay": 923,
     "timeWeek": 881,
-    "timeMonth": 976,
+    "timeMonth": 953,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2024-07-27": 45
@@ -91,7 +91,7 @@
     "time": 524,
     "timeDay": 474,
     "timeWeek": 525,
-    "timeMonth": 523,
+    "timeMonth": 527,
     "timeYear": 524,
     "dailyMinutesDown": {}
   },
@@ -109,7 +109,7 @@
     "time": 1636,
     "timeDay": 1351,
     "timeWeek": 1745,
-    "timeMonth": 1630,
+    "timeMonth": 1646,
     "timeYear": 1636,
     "dailyMinutesDown": {}
   },
@@ -127,7 +127,7 @@
     "time": 1334,
     "timeDay": 972,
     "timeWeek": 1172,
-    "timeMonth": 1380,
+    "timeMonth": 1394,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2024-08-10": 21
@@ -147,7 +147,7 @@
     "time": 1218,
     "timeDay": 1003,
     "timeWeek": 1114,
-    "timeMonth": 1082,
+    "timeMonth": 1084,
     "timeYear": 1218,
     "dailyMinutesDown": {
       "2024-07-26": 16
@@ -167,7 +167,7 @@
     "time": 704,
     "timeDay": 564,
     "timeWeek": 694,
-    "timeMonth": 690,
+    "timeMonth": 691,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2024-07-26": 16
@@ -187,7 +187,7 @@
     "time": 120,
     "timeDay": 87,
     "timeWeek": 118,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-07-26": 16
@@ -219,19 +219,19 @@
     "url": "$CN_0",
     "icon": "https://camo.githubusercontent.com/92dc77bab3bdf123da928fabe12a9ed05cdb9f64da4bc1bd8a81a85ccc4fe5d5/68747470733a2f2f7777772e7a68616f67756f71692e636f6d2f75706c6f61642f3230323330322f3432392f4d656469756d5f706e675f32303233303232343038303031345f37313233315f315f333030783230302e706e67",
     "slug": "cn-bgp-4-c4-g-10-m",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.70%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.72%",
     "time": 263,
     "timeDay": 268,
-    "timeWeek": 269,
+    "timeWeek": 270,
     "timeMonth": 256,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-09-01": 8,
+      "2024-09-01": 0,
       "2024-08-24": 24,
       "2024-08-18": 15,
       "2024-08-17": 28,
@@ -254,7 +254,7 @@
     "time": 231,
     "timeDay": 244,
     "timeWeek": 215,
-    "timeMonth": 224,
+    "timeMonth": 216,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2024-07-26": 16
