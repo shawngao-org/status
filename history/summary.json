@@ -102,19 +102,19 @@
     "url": "https://gravatar.shawngao.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.shawngao.org.ico",
     "slug": "gravatar-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1554,
-    "timeDay": 1420,
-    "timeWeek": 1315,
-    "timeMonth": 1454,
-    "timeYear": 1554,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1551,
+    "timeDay": 1380,
+    "timeWeek": 1318,
+    "timeMonth": 1450,
+    "timeYear": 1551,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 11
     }
   },
   {
