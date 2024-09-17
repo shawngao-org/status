@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1316,
-    "timeDay": 790,
-    "timeWeek": 975,
-    "timeMonth": 1257,
-    "timeYear": 1316,
+    "time": 1307,
+    "timeDay": 900,
+    "timeWeek": 909,
+    "timeMonth": 1249,
+    "timeYear": 1307,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://camo.githubusercontent.com/d75049b8985af3c0488db284c20eed129eaa526ef4d35657437c55fccfd53005/68747470733a2f2f616c6973742e6e6e2e63692f6c6f676f2e737667",
     "slug": "file-share",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.40%",
     "uptimeMonth": "97.10%",
-    "uptimeYear": "98.22%",
-    "time": 3940,
-    "timeDay": 1126,
-    "timeWeek": 1114,
-    "timeMonth": 1094,
-    "timeYear": 3940,
+    "uptimeYear": "98.24%",
+    "time": 3913,
+    "timeDay": 1134,
+    "timeWeek": 1117,
+    "timeMonth": 1100,
+    "timeYear": 3913,
     "dailyMinutesDown": {
       "2024-09-12": 484,
       "2024-09-11": 786,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 365,
-    "timeWeek": 541,
-    "timeMonth": 627,
-    "timeYear": 737,
+    "time": 739,
+    "timeDay": 866,
+    "timeWeek": 581,
+    "timeMonth": 630,
+    "timeYear": 739,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 936,
-    "timeDay": 805,
-    "timeWeek": 969,
-    "timeMonth": 937,
-    "timeYear": 936,
+    "time": 933,
+    "timeDay": 806,
+    "timeWeek": 963,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2024-07-27": 45
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 470,
-    "timeWeek": 443,
-    "timeMonth": 492,
+    "timeDay": 525,
+    "timeWeek": 453,
+    "timeMonth": 487,
     "timeYear": 506,
     "dailyMinutesDown": {}
   },
@@ -103,19 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.shawngao.org.ico",
     "slug": "gravatar-proxy",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1551,
-    "timeDay": 1380,
-    "timeWeek": 1318,
-    "timeMonth": 1450,
-    "timeYear": 1551,
-    "dailyMinutesDown": {
-      "2024-09-16": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1547,
+    "timeDay": 1330,
+    "timeWeek": 1325,
+    "timeMonth": 1443,
+    "timeYear": 1547,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
@@ -128,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1269,
-    "timeDay": 949,
-    "timeWeek": 1013,
-    "timeMonth": 1133,
-    "timeYear": 1269,
+    "time": 1264,
+    "timeDay": 988,
+    "timeWeek": 1003,
+    "timeMonth": 1119,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2024-08-10": 21
     }
@@ -148,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1198,
-    "timeDay": 1011,
-    "timeWeek": 1167,
-    "timeMonth": 1111,
-    "timeYear": 1198,
+    "time": 1197,
+    "timeDay": 1111,
+    "timeWeek": 1153,
+    "timeMonth": 1117,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2024-07-26": 16
     }
@@ -168,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 688,
-    "timeDay": 543,
-    "timeWeek": 630,
-    "timeMonth": 659,
-    "timeYear": 688,
+    "time": 687,
+    "timeDay": 610,
+    "timeWeek": 632,
+    "timeMonth": 654,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2024-07-26": 16
     }
@@ -189,9 +187,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 114,
-    "timeDay": 86,
+    "timeDay": 91,
     "timeWeek": 97,
-    "timeMonth": 110,
+    "timeMonth": 108,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-07-26": 16
@@ -211,7 +209,7 @@
     "time": 54,
     "timeDay": 65,
     "timeWeek": 59,
-    "timeMonth": 48,
+    "timeMonth": 49,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2024-09-11": 39,
@@ -231,9 +229,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.80%",
     "time": 264,
-    "timeDay": 267,
+    "timeDay": 273,
     "timeWeek": 263,
-    "timeMonth": 261,
+    "timeMonth": 262,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2024-08-24": 24,
@@ -258,7 +256,7 @@
     "time": 232,
     "timeDay": 247,
     "timeWeek": 242,
-    "timeMonth": 223,
+    "timeMonth": 224,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2024-07-26": 16
