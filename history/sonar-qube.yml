@@ -1,7 +1,7 @@
 url: $SONAR_HOST_URL
 status: up
 code: 200
-responseTime: 729
-lastUpdated: 2024-10-04T23:05:50.640Z
+responseTime: 595
+lastUpdated: 2024-10-05T23:05:52.258Z
 startTime: 2024-07-26T14:20:16.332Z
 generator: Upptime <https://github.com/upptime/upptime>
